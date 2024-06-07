@@ -1,0 +1,19 @@
+{
+    "name": "fh-git-extension-pack",
+    "displayName": "FH Git Extension Pack",
+    "description": "Git Extensions Package for foreverhighness",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "publisher": "Foreverhighness",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "seatonjiang.gitmoji-vscode"
+    ]
+}
